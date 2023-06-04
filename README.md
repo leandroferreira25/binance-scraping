@@ -1,6 +1,6 @@
 # Web scrapping using playwright
 
-This script scrapes https://www.binance.com/ website for cheap weekend flights to any destination.
+This script scrapes https://www.binance.com/ website for cheap cryptos.
 
 ### Install dependencies
 
